@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 bootcamp-2027.Rproj
+
+/.quarto/
+**/*.quarto_ipynb
