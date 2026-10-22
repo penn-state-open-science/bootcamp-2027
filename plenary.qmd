@@ -1,0 +1,25 @@
+---
+title: "Planned Plenary Sessions"
+format: html
+---
+
+## About
+
+The sessions listed below are anticipated and subject to change as planning continues. Details, including dates, times, and topics, may be updated before the Bootcamp.
+
+### Keynote
+
+To be announced soon...
+
+### Open@Penn State
+
+This section includes short talks featuring open initiatives occurring at Penn State.
+
+### Open In Action
+
+This section features early career researchers who are implimenting open science practices or workflows in their current work. 
+
+If you would like to be considered for this session, please reach out to Alaina Pearce (azp271@psu.edu).
+
+
+

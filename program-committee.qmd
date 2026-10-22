@@ -1,0 +1,48 @@
+---
+title: "Program Committee"
+format: html
+---
+
+## Ana Enriquez
+
+:::: {.columns}
+::: {.column width="40%"}
+![](include/img/enriquez-ana.jpg){width=200px height=200px}
+:::
+::: {.column width="60%"}
+
+Ana Enriquez is the Copyright Officer and Head of the Office of Scholarly Communications and Copyright at the Penn State University Libraries. A copyright lawyer by training, she teaches the university community about copyright and publishing, assists researchers in making their work freely available to the public, and supports the Libraries’ negotiations with publishers. Her research focuses on copyright, teaching copyright, and leveraging library expertise to advance the open access movement.
+
+aee32@psu.edu</br></br>
+:::
+::::
+
+
+## Nicole Lazar
+
+:::: {.columns}
+::: {.column width="40%"}
+![](include/img/lazar-nicole.jpg){width=200px height=200px}
+:::
+::: {.column width="60%"}
+
+Nicole Lazar is Professor and Head of the Department of [Statistics](https://science.psu.edu/stat) at Penn State. Her research interests include the foundations of statistical inference and the analysis of functional neuroimaging data. In particular, she has worked on fundamental inferential topics such as model selection, multiple testing problems, and likelihood theory, specifically in the context of modern large-scale data analysis problems. She has done pioneering work on the statistical analysis of cognitive neuroscience data, with a focus on functional magnetic resonance imaging (fMRI). Most recently, Lazar has been involved in the application of topological data analysis methods to scientific questions of interest in psychology and climatology. These techniques are at the interface of statistics, mathematics, and computer science, and exemplify her cross-disciplinary approach to research. Lazar is the author of the book *The Statistical Analysis of Functional MRI Data* published by Springer. Nicole is the Open Science Liaison for the NSF-funded [National Synthesis Center for Emergence in the Molecular and Cellular Sciences (NCEMS)](https://ncems.psu.edu), based at Penn State.
+<!-- Lazar is also Co-PI on an NSF-funded project on fostering open science education for graduate students [NSF-1955049](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1955049) which has led to the formation of the [Open Science Alliance](https://openscialliance.github.io/). -->
+
+nfl5182@psu.edu
+:::
+::::
+
+
+## Briana Wham
+
+:::: {.columns}
+::: {.column width="40%"}
+![](include/img/wham-briana.jpg){width=200px height=200px}
+:::
+::: {.column width="60%"}
+Briana Ezray Wham is Research Data Librarian – STEM at the Penn State University Libraries. Dr. Wham conducts data management plan reviews and provides guidance, training, and consulting services for data management planning, active data management, reproducible research workflows using R, data visualization, data publication, as well as ORCiD integration and utility. She also works as one of the data curators for [ScholarSphere](https://scholarsphere.psu.edu), Penn State's institutional repository. Prior to joining Penn State University Libraries, Briana received her Ph.D. in Entomology from Penn State, where she studied aspects of ecology, evolution, and conservation of bee communities. Briana’s interests include open science, museum collection digitization, and bee conservation.
+
+bde125@psu.edu
+:::
+::::

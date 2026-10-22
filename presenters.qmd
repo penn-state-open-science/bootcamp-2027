@@ -1,0 +1,68 @@
+---
+title: "Presenters"
+format: html
+---
+
+<!-- ## Wayne Figurelle {-} -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- ![](include/img/Wayne-Figurelle.jpg){width=200px height=200px} -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- Wayne Figurelle is Assistant Director of Innovation and Outreach at the Institute for Computational and Data Science Sciences (ICDS). Wayne has over 25 years of experience as a senior manager, with a focus in computer engineering. Figurelle joined Penn State in 2001 as senior technical specialist of the Pennsylvania Technical Assistance Program (PennTAP) and was promoted to director of PennTAP in 2006. He has also served as director of Industrial Innovation Programs and the EDA University Center in the Penn State College of Engineering. He joined ICS as assistant director in 2014. Prior to joining Penn State, he held positions at Raytheon and Link Computer Corporation. -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- ## Nathan F. Hall {-} -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- ![](include/img/hall-nathan.jpg){width=200px height=200px} -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- [Nathan F. Hall, Ph.D.](https://libraries.psu.edu/directory/nmh5768) is Associate Dean for Distinctive Collections and Digital Strategies and -->
+<!-- Librarian with the Penn State University Libraries. He earned his doctoral degree in information science from the University of North Texas. -->
+<!-- ::: -->
+<!-- :::: -->
+
+
+<!-- ## Maurie Kelly {-} -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=50%} -->
+<!-- ![](include/img/kelly-maurie.jpeg){width=200px height=200px} -->
+<!-- ::: -->
+<!-- ::: {.column width=50%} -->
+<!-- [Maurie Kelly, Ph.D.](https://iee.psu.edu/people/maurie-kelly) is Director of the Pennsylvania Spatial Data Access program, an instructor in the Smeal School of Business and the College of Information Science and Technology, and Director of the Penn State [Data Commons](https://www.datacommons.psu.edu). -->
+
+<!-- [Maurie Kelly, Ph.D.](https://iee.psu.edu/people/maurie-kelly) is a member of the research faculty at Penn State Institute of Energy and the Environment where she serves as the Director of [Pennsylvania Spatial Data Access](https://pasda.psu.edu), the PA geospatial data access portal and the [Penn State Data Commons](https://datacommons.psu.edu), a PSU institutional research data repository.  In addition to PASDA and the Data Commons, she currently leads several big data/geospatial projects including the [PA Mine Map Atlas](https://minemaps.psu.edu), the [PA Flood Risk Assessment Tool](https://pafloodrisk.psu.edu), and [Penn Pilot](https://pennpilot.psu.edu). She is a member of the Pennsylvania Geospatial Coordinating Board, and several related task forces including the Emerging Technologies subcommittee, Services Delivery Task Force, and the Elevation Working Group.  Maurie also serves as an instructor for the Smeal College of Business, teaching courses in international business, sustainability, and complex negotiations.  She is a member of the editorial board of the International Journal of Data Mining, Modelling, and Management and the International Journal of Society Systems Science.  -->
+<!-- ::: -->
+<!-- :::: -->
+
+
+## Ivan Jacob Agaloos Pesigan (Jek) {-}
+
+:::: {.columns}
+::: {.column width=50%}
+![](include/img/pesigan-ivan-jek.jpg){width=200px height=200px}
+:::
+::: {.column width=50%}
+[Ivan Jacob Agaloos Pesigan (Jek), Ph.D.](https://quantdev.ssri.psu.edu/people/ibp5092) is an Assistant Research Professor in the Quantitative Developmental Systems Methodology Core (QuantDev) in the [Social Science Research Institute](https://ssri.psu.edu) at Penn State.
+
+[Jek](https://quantdev.ssri.psu.edu/people/ibp5092) specializes in quantitative methodology, statistical modeling, and computational research, with a focus on developing statistical methods and software for analyzing longitudinal data. An advocate for open science and computational reproducibility, his interests extend to research software development, containerization, and high-performance computing. His work bridges statistical methodology and reproducible computational practices to advance transparent, accessible, and reliable scientific research.
+:::
+::::
+
+<!-- ## Jennifer Valcin -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width="40%"} -->
+<!-- ![](include/img/valcin-jennifer.png){width=200px height=200px} -->
+<!-- ::: -->
+<!-- ::: {.column width="60%"} -->
+<!-- Jennifer Valcin, Ph.D., is a Statistician in the Research Data Stewardship department at Penn State University Libraries. Dr. Valcin conducts individual consultations, workshops, and small group trainings to support researchers in the Penn State community with data analysis planning and quantitative statistical methods using a variety of software tools. Prior to joining Penn State University Libraries, she earned her Ph.D. in Biomedical Sciences, with a focus in Genetics, Genomics, and Bioinformatics, from the University of Alabama at Birmingham. -->
+
+<!-- jpv5319@psu.edu -->
+<!-- ::: -->
+<!-- :::: -->

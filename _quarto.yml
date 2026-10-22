@@ -12,11 +12,15 @@ book:
     #   - day-1.qmd
     #   - day-2.qmd
     # #   - day-3.qmd
-    # - part: People
-    #   chapters:
-    #   - directors.qmd
-    #   - program-committee.qmd
-    #   - presenters.qmd
+    - part: People
+      chapters:
+      - directors.qmd
+      - program-committee.qmd
+      - presenters.qmd
+    - part: Anticipated Sessions
+      chapters:
+      - plenary.qmd
+      - workshops.qmd
     # - part: More
     #   chapters:
     #   - text: "Session details"

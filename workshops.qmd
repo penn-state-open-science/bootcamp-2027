@@ -1,0 +1,34 @@
+---
+title: "Planned Workshops"
+format: html
+---
+
+## About
+
+The sessions listed below are anticipated and subject to change as planning continues. Details, including dates, times, and topics, may be updated before the Bootcamp.
+
+::: {.callout-note}
+Some sessions are part of a thematic series, but each session stands on its own. You’re welcome to attend any session, even if you haven’t attended earlier ones.
+:::
+
+### Provost Endorsed Training in Research Data Stewardship
+
+We anticipate offering at least one workshop that will contribute to the [Provost Endorsed Training in Research Data Stewardship](include/docx/2026_rds_overview.docx).
+
+### Beyond Sharing Code: Computational Reproducibility with Containers: From “It Works on My Machine” to Reproducible Research Workflows
+
+[Ivan Jacob Agaloos Pesigan (Jek), Ph.D.](presenters.qmd#ivan-jacob-agaloos-pesigan-jek)
+
+This workshop will introduce computational reproducibility using software containers (e.g., Docker and Apptainer) to create portable and reusable research workflows. Participants will learn how containers can help move beyond simply sharing code by preserving complete computational environments, making analyses easier to reproduce across machines, collaborators, and computing platforms. The workshop will focus on practical applications for research, including reproducible data analysis, software management, and high-performance computing.
+
+### Quarto (Part I): A tool for open scholarship
+
+[Rick Gilmore](directors.qmd#rick-gilmore), Department of Psychology
+
+[Quarto](https://quarto.org) is an open-source scientific and technical publishing system.As the Quarto site suggests, if you have a story to tell with data, you can tell it with Quarto. This workshop will introduce Quarto and show how it can be a powerful tool for implementing open scholarship practices. 
+
+### Introduction to copyright and open access publishing {-}
+
+[Ana Enriquez](program-committee.qmd#ana-enriquez), University Libraries
+
+This presentation will provide a brief introduction to U.S. copyright law, open access publishing, and Creative Commons licensing. You will learn what copyright covers and how copyrighted works enter the public domain. You’ll also learn about fair use and other rights that copyright gives to people using copyrighted material. There will also be a brief overview on the different types of Creative Commons licenses.
